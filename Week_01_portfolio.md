@@ -48,3 +48,33 @@ The screenshot below is included as evidence that the repository was created suc
 <hr>
 
 <p><b>Status:</b> Repository created successfully.</p>
+
+<hr>
+
+<h2>5. Adding a Linux Host Node in GNS3</h2>
+
+<p>
+In this step, a single Linux host node was added to the GNS3 workspace.
+This node represents an end device in the network and will be used for testing
+connectivity and basic network automation tasks in later stages.
+</p>
+
+<p>
+The Linux host was successfully placed in the topology area within GNS3.
+</p>
+
+<h3>Screenshot Evidence</h3>
+
+<p>
+<img src="week1/2.png" width="800">
+</p>
+
+<h3>Notes</h3>
+
+<ul>
+  <li>A single Linux host node was added as required.</li>
+  <li>The node is visible in the GNS3 workspace.</li>
+  <li>This setup will be used for further network configuration and testing.</li>
+</ul>
+
+<p><b>Status:</b> Linux host node added successfully.</p>
