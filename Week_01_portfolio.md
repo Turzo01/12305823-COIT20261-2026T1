@@ -34,10 +34,10 @@ The screenshot below is included as evidence that the repository was created suc
 </p>
 
 <p>
-<img src="images/week1/1.png" alt="Screenshot showing the created GitHub repository" width="800">
-</p>
-<img src="repo.png" width="800">
 
+<img src="week1/1.png" width="800">
+
+</p>
 <h2>4. Notes</h2>
 
 <ul>
